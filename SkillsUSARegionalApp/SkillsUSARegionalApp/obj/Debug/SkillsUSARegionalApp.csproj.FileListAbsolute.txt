@@ -1,0 +1,10 @@
+C:\Users\makel\source\repos\SkillsUSARegionalApp\SkillsUSARegionalApp\bin\Debug\SkillsUSARegionalApp.exe.config
+C:\Users\makel\source\repos\SkillsUSARegionalApp\SkillsUSARegionalApp\bin\Debug\SkillsUSARegionalApp.exe
+C:\Users\makel\source\repos\SkillsUSARegionalApp\SkillsUSARegionalApp\bin\Debug\SkillsUSARegionalApp.pdb
+C:\Users\makel\source\repos\SkillsUSARegionalApp\SkillsUSARegionalApp\obj\Debug\SkillsUSARegionalApp.csprojAssemblyReference.cache
+C:\Users\makel\source\repos\SkillsUSARegionalApp\SkillsUSARegionalApp\obj\Debug\SkillsUSARegionalApp.Form1.resources
+C:\Users\makel\source\repos\SkillsUSARegionalApp\SkillsUSARegionalApp\obj\Debug\SkillsUSARegionalApp.Properties.Resources.resources
+C:\Users\makel\source\repos\SkillsUSARegionalApp\SkillsUSARegionalApp\obj\Debug\SkillsUSARegionalApp.csproj.GenerateResource.cache
+C:\Users\makel\source\repos\SkillsUSARegionalApp\SkillsUSARegionalApp\obj\Debug\SkillsUSARegionalApp.exe
+C:\Users\makel\source\repos\SkillsUSARegionalApp\SkillsUSARegionalApp\obj\Debug\SkillsUSARegionalApp.pdb
+C:\Users\makel\source\repos\SkillsUSARegionalApp\SkillsUSARegionalApp\obj\Debug\SkillsUSARegionalApp.csproj.CoreCompileInputs.cache
